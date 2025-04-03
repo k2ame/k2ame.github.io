@@ -1,5 +1,5 @@
 /**********************************/
-/********** General CSS ***********/
+/********** General CSS  #4B371c ***********/
 /**********************************/
 body {
     color: #353535;
@@ -9,7 +9,7 @@ body {
 }
 
 a {
-    color: #FF6F61;
+    color: #4B371c;
 }
 
 a:hover,
@@ -160,7 +160,7 @@ h2 {
 .normal-slider .slick-prev:focus::before,
 .normal-slider .slick-next:hover::before,
 .normal-slider .slick-next:focus::before {
-    color: #FF6F61;
+    color: #daac70;
 }
 
 .normal-slider .slick-prev::before,
@@ -2298,8 +2298,8 @@ h2 {
 }
 
 .footer .social a:hover {
-    color: #FF6F61;
-    border-color: #FF6F61;
+    color:  #daac70;
+    border-color:  #daac70;
 }
 
 .footer .payment {
